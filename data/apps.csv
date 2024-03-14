@@ -942,7 +942,7 @@ launcher,taverner,,https://github.com/vagos/taverner,"CLI launcher menu for game
 security,securo,,https://github.com/iunary/securo,Encrypt and descrypt files and folders using a symmetric encryption.
 graphics,catnip,,https://github.com/sweetbbak/catnip,An Image picker using pure bash (C and Go version in the works) and kittys icat and Chafa's Sixel protocol.
 games,Wordle Solver,,https://gitlab.com/christosangel/wordle-solver,A bash script that can solve wordle riddles.
-utility,pangran,,https://github.com/BimoT/pangran,A simple TUI program that checks if you've typed a pangram.
+funny,pangran,,https://github.com/BimoT/pangran,A simple TUI program that checks if you've typed a pangram.
 utility,Polykill,,https://github.com/Bdeering1/polykill,Lightweight command line utility for removing dependencies and build artifacts from unused local projects.
 flashcard,ToRRential Card processor,,https://github.com/Constantin1489/trrc,A command-line program to add a card to Anki using AnkiConnect API.
 music,cue,,https://github.com/ravachol/cue,A command-line music player.
