@@ -789,7 +789,7 @@ text-processing,pup,,https://github.com/ericchiang/pup,Parsing HTML at the comma
 organizers,peroutine,,https://github.com/UlyssesZh/peroutine,"Remind you of periodical events. The period can be any positive integer of days, so work around the fact that the number of days in a week is prime."
 networking,sshto,,https://github.com/vaniacer/sshto,"Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports."
 security,PaperAge,,https://github.com/matiaskorhonen/paper-age,"Easy and secure paper backups of secrets, which takes a text and generates an encrypted QRcode to print on paper."
-shells,Autocomplete,,https://github.com/withfig/autocomplete,IDE-style autocomplete for your existing terminal & shell.
+shells,Fig,,https://github.com/withfig/autocomplete,IDE-style autocomplete for your existing terminal & shell.
 ai,chatgpt,,https://github.com/mglantz/chatgpt,Simple command line integration to Chat GPT.
 organizers,Calcure,,https://github.com/anufrievroman/calcure,Modern TUI calendar and task manager with customizable interface.
 rss,Canto Curses,,https://github.com/themoken/canto-curses,Curses frontend for [Canto daemon](https://github.com/themoken/canto-next) for RSS feeds.
